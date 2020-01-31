@@ -44,6 +44,11 @@ Usage of uuid-cli:
     $ uuid-cli -v 5 -ns be040956-4caf-43b3-bfe7-8cf36fd9e573 my-name
     07b676c5-6b33-53a0-a3a0-4857ee8252e8
 
+## Docker
+
+    $ docker run networkteamcom/uuid-cli -v 1
+    0a86245a-4411-11ea-9636-acde48001122
+
 # License
 
 [MIT](./LICENSE)
